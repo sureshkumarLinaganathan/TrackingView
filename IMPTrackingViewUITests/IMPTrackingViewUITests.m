@@ -3,7 +3,7 @@
 //  IMPTrackingViewUITests
 //
 //  Created by Sureshkumar Linganathan on 14/07/16.
-//  Copyright © 2016 Impiger Technologies. All rights reserved.
+//  Copyright © 2016 . All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
